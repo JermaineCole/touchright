@@ -135,3 +135,4 @@ perimetric>9.142
 teach>3.747
 rowdyism>=9.905
 cheilanthes>0.247
+stimies>3.441
