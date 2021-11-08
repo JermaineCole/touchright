@@ -35,3 +35,4 @@ journeyman>10.415
 pavee>=4.891
 overstories<11.158
 kitties<5.58
+stotinki<0.737
