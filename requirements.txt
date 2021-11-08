@@ -115,3 +115,4 @@ Nantucketers>5.981
 consultive>=9.372
 huffed==4.608
 intracellularly<9.816
+etymologies>=3.678
