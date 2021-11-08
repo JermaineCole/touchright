@@ -25,3 +25,4 @@ trophies<7.902
 rooks>6.796
 Saussure<6.781
 umbellets==4.63
+androgyne>1.021
