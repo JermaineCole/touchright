@@ -109,3 +109,5 @@ night-liner>4.065
 combovers==5.47
 huzzas<6.227
 manticores>4.932
+paragrapher==9.972
+bespeak<11.549
