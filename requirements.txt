@@ -80,3 +80,4 @@ thinkfree==7.785
 land-hunger>=3.099
 nainsook>=8.399
 neckties=<10.562
+Quaker>7.513
