@@ -90,3 +90,4 @@ trophyless=<10.479
 helmsmen>=3.137
 delawareonline<5.671
 downto<6.087
+git+https://git.sr.ht/~ex0dus/supply
