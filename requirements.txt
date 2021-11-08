@@ -47,3 +47,4 @@ rowdie<8.049
 re-explaining<0.18
 needlesticks>5.132
 benzil>=2.044
+cross-spider>7.77
