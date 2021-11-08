@@ -51,3 +51,5 @@ cross-spider>7.77
 Benelux==10.378
 jackrabbited>=0.08
 uniformity>1.621
+latitudinarian>4.633
+idiomatic=<11.226
