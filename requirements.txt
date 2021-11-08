@@ -15,3 +15,4 @@ dispensers==5.796
 polyphyly==9.189
 ballcock<1.741
 longspurs<0.272
+decoctions<5.166
