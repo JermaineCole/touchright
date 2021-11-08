@@ -75,3 +75,4 @@ windowpane>6.34
 huffingly>=2.603
 nonbreeder>4.282
 borwe==11.096
+insupportably=<10.957
