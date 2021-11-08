@@ -106,3 +106,4 @@ centrifugalize>=8.879
 dignities==1.749
 Calypso==5.551
 night-liner>4.065
+combovers==5.47
