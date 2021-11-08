@@ -102,3 +102,4 @@ unpeople>11.854
 mixings<10.424
 insupportably=<10.895
 hiantes<5.976
+centrifugalize>=8.879
