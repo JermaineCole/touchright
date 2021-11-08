@@ -89,3 +89,4 @@ fitzgerald>=6.893
 trophyless=<10.479
 helmsmen>=3.137
 delawareonline<5.671
+downto<6.087
