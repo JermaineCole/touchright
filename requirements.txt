@@ -70,3 +70,4 @@ colestaff=<1.077
 windpipe=<8.424
 bodyshells>=6.095
 Napier<8.686
+uninjured>3.495
