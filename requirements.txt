@@ -41,3 +41,4 @@ megapacks>3.179
 demi-glaze=<6.77
 squabby>=7.265
 metallizes==1.912
+serranoid>=7.204
