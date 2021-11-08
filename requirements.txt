@@ -133,3 +133,4 @@ toenails<3.043
 orations=<2.401
 perimetric>9.142
 teach>3.747
+rowdyism>=9.905
