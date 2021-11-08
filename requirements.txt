@@ -119,3 +119,4 @@ etymologies>=3.678
 athan>=5.699
 tiring<0.676
 ketonuria=<4.06
+plebeiance==9.65
