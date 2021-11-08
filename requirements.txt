@@ -22,3 +22,4 @@ tetrameric==5.471
 blatant>=1.005
 lysate>2.376
 trophies<7.902
+rooks>6.796
