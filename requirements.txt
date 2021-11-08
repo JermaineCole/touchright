@@ -50,3 +50,4 @@ benzil>=2.044
 cross-spider>7.77
 Benelux==10.378
 jackrabbited>=0.08
+uniformity>1.621
