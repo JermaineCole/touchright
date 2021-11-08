@@ -77,3 +77,4 @@ nonbreeder>4.282
 borwe==11.096
 insupportably=<10.957
 thinkfree==7.785
+land-hunger>=3.099
