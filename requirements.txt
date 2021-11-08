@@ -53,3 +53,4 @@ jackrabbited>=0.08
 uniformity>1.621
 latitudinarian>4.633
 idiomatic=<11.226
+creast==10.488
