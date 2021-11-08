@@ -97,3 +97,4 @@ Swiss-cheesed<5.054
 fadme>1.157
 pioneering<4.192
 color-chord<6.654
+pesture>=11.593
