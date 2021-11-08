@@ -113,3 +113,4 @@ paragrapher==9.972
 bespeak<11.549
 Nantucketers>5.981
 consultive>=9.372
+huffed==4.608
