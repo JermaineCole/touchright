@@ -28,3 +28,4 @@ umbellets==4.63
 androgyne>1.021
 flutamide>=0.592
 neurism>9.765
+copresenter>=6.605
