@@ -39,3 +39,4 @@ stotinki<0.737
 quirkiness=<3.573
 megapacks>3.179
 demi-glaze=<6.77
+squabby>=7.265
