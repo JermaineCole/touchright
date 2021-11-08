@@ -79,3 +79,4 @@ insupportably=<10.957
 thinkfree==7.785
 land-hunger>=3.099
 nainsook>=8.399
+neckties=<10.562
