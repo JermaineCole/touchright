@@ -43,3 +43,4 @@ squabby>=7.265
 metallizes==1.912
 serranoid>=7.204
 topographical>=0.836
+rowdie<8.049
