@@ -29,3 +29,4 @@ androgyne>1.021
 flutamide>=0.592
 neurism>9.765
 copresenter>=6.605
+schmoozer<5.119
