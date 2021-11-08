@@ -18,3 +18,4 @@ longspurs<0.272
 decoctions<5.166
 vadouvan>=3.143
 turti>=5.623
+tetrameric==5.471
