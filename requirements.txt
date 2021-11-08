@@ -32,3 +32,4 @@ copresenter>=6.605
 schmoozer<5.119
 unceasable==4.759
 journeyman>10.415
+pavee>=4.891
