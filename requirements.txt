@@ -108,3 +108,4 @@ Calypso==5.551
 night-liner>4.065
 combovers==5.47
 huzzas<6.227
+manticores>4.932
