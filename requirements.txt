@@ -16,3 +16,4 @@ polyphyly==9.189
 ballcock<1.741
 longspurs<0.272
 decoctions<5.166
+vadouvan>=3.143
