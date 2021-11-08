@@ -58,3 +58,4 @@ sulliage>5.977
 semi-metal>=5.215
 Palmyra>2.475
 buttfucker==9.73
+drying-machine==8.718
