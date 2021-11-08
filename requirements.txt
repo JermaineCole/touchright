@@ -96,3 +96,4 @@ chromosomal>=3.583
 Swiss-cheesed<5.054
 fadme>1.157
 pioneering<4.192
+color-chord<6.654
