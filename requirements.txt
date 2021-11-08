@@ -62,3 +62,4 @@ drying-machine==8.718
 cameleers>=2.752
 compers>=8.741
 Chleuhs>5.573
+azinphos-methyl>7.314
