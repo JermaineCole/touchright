@@ -81,3 +81,4 @@ land-hunger>=3.099
 nainsook>=8.399
 neckties=<10.562
 Quaker>7.513
+wallpapering==4.62
